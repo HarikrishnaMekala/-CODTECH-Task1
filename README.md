@@ -10,6 +10,9 @@ NAME :HARIKRISHNA MEKALA
  
  Mentor :G.SRAVANI 
 
+ ![Screenshot 2024-06-25 111713](https://github.com/HarikrishnaMekala/-CODTECH-Task1/assets/174264863/b46841ef-365d-4e57-8060-4991beec5533)
+
+
  ##Overview of the Project:
 This project involves preprocessing the Titanic dataset and training a logistic regression model to predict passenger survival. The key steps include data loading, preprocessing, model training, and evaluation.
 
